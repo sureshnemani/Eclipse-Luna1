@@ -7,6 +7,8 @@ public class Add1 {
 	public static void main(String[] args) {
 		System.out.println("Addition is :"+(a+b));
 		System.out.println("1st git commit");
+		
+		System.out.println("first change");
 
 	}
 
